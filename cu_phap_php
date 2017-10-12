@@ -1,0 +1,11 @@
+<html>
+	<head>
+	  <title>Ví dụ chương trình PHP</title>
+  </head>
+  <body>
+	<?php
+		echo "Ví dụ minh họa lên echo! <br>";
+		print("Ví dụ minh họa cho print!");
+	?>
+  </body>
+</html>
