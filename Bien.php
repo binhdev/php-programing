@@ -6,7 +6,7 @@
     $old = 21 ;
      echo "ten: $name <br>";
      echo "*************";
-     echo "dia chi:$address <br>";
+     echo "dia chi:$adress <br>";
      echo "************";
      echo "tuoi: $old <br>";
      echo "**************";
